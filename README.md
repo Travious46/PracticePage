@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the page
 
-You can use the [editor on GitHub](https://github.com/Travious46/PracticePage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a sample website that I made in Mufaro's Software Development club. Apparently, I can use it to put random stuff on here or develop my professional career(I guess).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
